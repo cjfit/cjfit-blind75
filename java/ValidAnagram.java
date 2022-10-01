@@ -1,5 +1,5 @@
 // Solution 1. A less optimal naive implementation that shows steps
-// Time: o(n)^2
+// Time: o(n)
 // Memory: o(n)^2
 
 class ValidAnagram {

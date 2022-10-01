@@ -1,3 +1,6 @@
+// Time: o(n)
+// Memory: o(n)
+
 class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
     if(nums==null || nums.length==0)

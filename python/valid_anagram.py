@@ -1,5 +1,5 @@
 # Solution 1.
-# Time:b  
+# Time:
 # Memory:
 
 class Solution:
